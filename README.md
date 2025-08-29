@@ -1,4 +1,4 @@
-# 👨‍💻 Alex - Ingeniero de Sistemas
+# 👨‍💻 Franco - Ingeniero de Sistemas
 
 Soy desarrollador apasionado por crear soluciones web, móviles y de escritorio.  
 Me gusta aprender nuevas tecnologías y aplicar buenas prácticas en mis proyectos.
