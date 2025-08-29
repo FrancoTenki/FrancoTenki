@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Alex - Ingeniero de Sistemas
 
-<!--
-**FrancoTenki/FrancoTenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador apasionado por crear soluciones web, móviles y de escritorio.  
+Me gusta aprender nuevas tecnologías y aplicar buenas prácticas en mis proyectos.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- Lenguajes: Java, C#, JavaScript, Python
+- Frameworks: React, Next.js, Flutter, .NET
+- Bases de datos: MySQL, SQLite, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- [App educativa de matemáticas](https://github.com/tuusuario/app-matematicas)
+- [Ecommerce propio](https://github.com/tuusuario/ecommerce)
+- [Juego en Unity - Mazmorra medieval](https://github.com/tuusuario/juego-unity)
+
+## 📫 Contacto
+- 📧 email: tuemail@ejemplo.com
+- 💼 [LinkedIn](https://linkedin.com/in/franco-miranda-calderón-759176286)
