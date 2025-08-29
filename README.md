@@ -10,9 +10,9 @@ Me gusta aprender nuevas tecnologías y aplicar buenas prácticas en mis proyect
 
 ## 📂 Proyectos Destacados
 - [App educativa de matemáticas](https://github.com/tuusuario/app-matematicas)
-- [Ecommerce propio](https://github.com/tuusuario/ecommerce)
+- [Ecommerce](https://github.com/tuusuario/ecommerce)
 - [Juego en Unity - Mazmorra medieval](https://github.com/tuusuario/juego-unity)
 
 ## 📫 Contacto
-- 📧 email: tuemail@ejemplo.com
+- 📧 email: calderon112004@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/franco-miranda-calderón-759176286)
