@@ -16,3 +16,4 @@ Me gusta aprender nuevas tecnologías y aplicar buenas prácticas en mis proyect
 ## 📫 Contacto
 - 📧 email: calderon112004@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/franco-miranda-calderón-759176286)
+- ↗️ [Web](https://alexrepo.netlify.app/)
